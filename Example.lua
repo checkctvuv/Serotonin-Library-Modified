@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/jianlobiano/Serotonin-Library-Modified/refs/heads/main/Library.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/checkctvuv/Serotonin-Library-Modified/refs/heads/main/Library.lua"))()
 
 Library.Folders = {
     Directory = "uip100",
