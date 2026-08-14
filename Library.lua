@@ -197,13 +197,13 @@ do
         ["Preset"] = {
             ["Window Outline"] = FromRGB(0, 34, 37),
             ["Accent"] = FromRGB(94, 213, 213),
-            ["Background 1"] = FromRGB(17, 21, 27),
+            ["Background 1"] = FromRGB(0, 0, 0),
             ["Text"] = FromRGB(255, 255, 255),
             ["Inline"] = FromRGB(19, 25, 31),
             ["Element"] = FromRGB(32, 38, 48),
             ["Inactive Text"] = FromRGB(185, 185, 185),
             ["Border"] =  FromRGB(46, 52, 61),
-            ["Background 2"] = FromRGB(24, 28, 36)
+            ["Background 2"] = FromRGB(0, 0, 0)
         }
 	}
 
